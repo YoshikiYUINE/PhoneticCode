@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Phonetic_Code</string>
+    <string name="phoneticCodeLabel">Phonetic Code</string>
+    <string name="phoneticCodeLettersLabel">Phonetic Code [Letters]</string>
+    <string name="phoneticCodeNumbersLabel">Phonetic Code [Numbers]</string>
+    <string name="phoneticCodeKatakanaLabel">Phonetic Code [Katakana]</string>
+    <string name="phoneticCodeSymbolsLabel">Phonetic Code [Symbols]</string>
+    <string name="convertCallSignLabel">Convert call sign to phonetic</string>
+    <string name="editCallSignHint">Enter your radio call sign</string>
+    <string name="errorMaxCharacter">maximum 6 characters</string>
+    <string name="errorCharacterCheck">please enter A-Z or 0-9 [max:6 characters]</string>
+    <string name="copiedToClipboard">copied to clipboard</string>
+    <string-array name="characterNumbers_array">
+        <item>#</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="phoneticCodeNumbers_array">
+        <item>PHONETIC CODE</item>
+        <item>ZERO</item>
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+        <item>FIVE</item>
+        <item>SIX</item>
+        <item>SEVEN</item>
+        <item>EIGHT</item>
+        <item>NINE</item>
+        <item>DECIMAL</item>
+    </string-array>
+    <string-array name="phoneticCodeKatakanas_array">
+        <item>PHONETIC CODE</item>
+        <item>いろはのイ</item>
+        <item>ローマのロ</item>
+        <item>はがきのハ</item>
+        <item>日本(につぽん)のニ</item>
+        <item>保険(ほけん)のホ</item>
+        <item>平和(へいわ)のヘ</item>
+        <item>東京(とうきよう)のト</item>
+        <item>ちどりのチ</item>
+        <item>りんごのリ</item>
+        <item>沼津(ぬまず)のヌ</item>
+        <item>るすいのル</item>
+        <item>尾張(をわり)のヲ</item>
+        <item>わらびのワ</item>
+        <item>為替(かわせ)のカ</item>
+        <item>吉野(よしの)のヨ</item>
+        <item>煙草(たばこ)のタ</item>
+        <item>れんげのレ</item>
+        <item>そろばんのソ</item>
+        <item>つるかめのツ</item>
+        <item>ねずみのネ</item>
+        <item>名古屋(なごや)のナ</item>
+        <item>ラジオのラ</item>
+        <item>無線(むせん)のム</item>
+        <item>上野(うえの)のウ</item>
+        <item>ゐどのヰ</item>
+        <item>野原(のはら)のノ</item>
+        <item>大阪(おおさか)のオ</item>
+        <item>クラブのク</item>
+        <item>大和(やまと)のヤ</item>
+        <item>マツチのマ</item>
+        <item>景色(けしき)のケ</item>
+        <item>富士山(ふじさん)のフ</item>
+        <item>子供(こども)のコ</item>
+        <item>英語(えいご)のエ</item>
+        <item>手紙(てがみ)のテ</item>
+        <item>朝日(あさひ)のア</item>
+        <item>桜(さくら)のサ</item>
+        <item>切手(きつて)のキ</item>
+        <item>弓矢(ゆみや)のユ</item>
+        <item>明治(めいじ)のメ</item>
+        <item>三笠(みかさ)のミ</item>
+        <item>新聞(しんぶん)のシ</item>
+        <item>かぎのあるヱ</item>
+        <item>飛行機(ひこうき)のヒ</item>
+        <item>もみじのモ</item>
+        <item>世界(せかい)のセ</item>
+        <item>すずめのス</item>
+        <item>おしまいのン</item>
+        <item>だくてん</item>
+        <item>はんだくてん</item>
+        <item>数字のまる</item>
+        <item>数字のひと</item>
+        <item>数字のに</item>
+        <item>数字のさん</item>
+        <item>数字のよん</item>
+        <item>数字のご</item>
+        <item>数字のろく</item>
+        <item>数字のなな</item>
+        <item>数字のはち</item>
+        <item>数字のきゅう</item>
+    </string-array>
+    <string-array name="phoneticCodes_array">
+        <item>PHONETIC CODE</item>
+        <item>ALFA</item>
+        <item>BRAVO</item>
+        <item>CHARLIE</item>
+        <item>DELTA</item>
+        <item>ECHO</item>
+        <item>FOXTROT</item>
+        <item>GOLF</item>
+        <item>HOTEL</item>
+        <item>INDIA</item>
+        <item>JULIETT</item>
+        <item>KILO</item>
+        <item>LIMA</item>
+        <item>MIKE</item>
+        <item>NOVEMBER</item>
+        <item>OSCAR</item>
+        <item>PAPA</item>
+        <item>QUEBEC</item>
+        <item>ROMEO</item>
+        <item>SIERRA</item>
+        <item>TANGO</item>
+        <item>UNIFORM</item>
+        <item>VICTOR</item>
+        <item>WHISKEY</item>
+        <item>X―RAY</item>
+        <item>YANKEE</item>
+        <item>ZULU</item>
+    </string-array>
+</resources>

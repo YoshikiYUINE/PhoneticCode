@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">Phonetic_Code</string>
+    <string name="phoneticCodeLabel">Phonetic Code</string>
+    <string name="phoneticCodeLettersLabel">フォネティックコード [欧文]</string>
+    <string name="phoneticCodeNumbersLabel">フォネティックコード [数字]</string>
+    <string name="phoneticCodeKatakanaLabel">フォネティックコード [和文]</string>
+    <string name="phoneticCodeSymbolsLabel">フォネティックコード [記号]</string>
+    <string name="convertCallSignLabel">コールサインをフォネティックコードに変換</string>
+    <string name="editCallSignHint">無線局のコールサインを入力してください</string>
+    <string name="errorMaxCharacter">6文字以下で入力してください</string>
+    <string name="errorCharacterCheck">A-Z or 0-9, 6文字以下で入力してください. </string>
+    <string name="copiedToClipboard">クリップボードにコピーしました</string>
+    <string-array name="characterNumbers_array">
+        <item>#</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="phoneticCodeNumbers_array">
+        <item>フォネティックコード</item>
+        <item>ZERO</item>
+        <item>ONE</item>
+        <item>TWO</item>
+        <item>THREE</item>
+        <item>FOUR</item>
+        <item>FIVE</item>
+        <item>SIX</item>
+        <item>SEVEN</item>
+        <item>EIGHT</item>
+        <item>NINE</item>
+        <item>DECIMAL</item>
+    </string-array>
+    <string-array name="phoneticCodeKatakanas_array">
+        <item>PHONETIC CODE</item>
+        <item>いろはのイ</item>
+        <item>ローマのロ</item>
+        <item>はがきのハ</item>
+        <item>日本(につぽん)のニ</item>
+        <item>保険(ほけん)のホ</item>
+        <item>平和(へいわ)のヘ</item>
+        <item>東京(とうきよう)のト</item>
+        <item>ちどりのチ</item>
+        <item>りんごのリ</item>
+        <item>沼津(ぬまず)のヌ</item>
+        <item>るすいのル</item>
+        <item>尾張(をわり)のヲ</item>
+        <item>わらびのワ</item>
+        <item>為替(かわせ)のカ</item>
+        <item>吉野(よしの)のヨ</item>
+        <item>煙草(たばこ)のタ</item>
+        <item>れんげのレ</item>
+        <item>そろばんのソ</item>
+        <item>つるかめのツ</item>
+        <item>ねずみのネ</item>
+        <item>名古屋(なごや)のナ</item>
+        <item>ラジオのラ</item>
+        <item>無線(むせん)のム</item>
+        <item>上野(うえの)のウ</item>
+        <item>ゐどのヰ</item>
+        <item>野原(のはら)のノ</item>
+        <item>大阪(おおさか)のオ</item>
+        <item>クラブのク</item>
+        <item>大和(やまと)のヤ</item>
+        <item>マツチのマ</item>
+        <item>景色(けしき)のケ</item>
+        <item>富士山(ふじさん)のフ</item>
+        <item>子供(こども)のコ</item>
+        <item>英語(えいご)のエ</item>
+        <item>手紙(てがみ)のテ</item>
+        <item>朝日(あさひ)のア</item>
+        <item>桜(さくら)のサ</item>
+        <item>切手(きつて)のキ</item>
+        <item>弓矢(ゆみや)のユ</item>
+        <item>明治(めいじ)のメ</item>
+        <item>三笠(みかさ)のミ</item>
+        <item>新聞(しんぶん)のシ</item>
+        <item>かぎのあるヱ</item>
+        <item>飛行機(ひこうき)のヒ</item>
+        <item>もみじのモ</item>
+        <item>世界(せかい)のセ</item>
+        <item>すずめのス</item>
+        <item>おしまいのン</item>
+        <item>だくてん</item>
+        <item>はんだくてん</item>
+        <item>数字のまる</item>
+        <item>数字のひと</item>
+        <item>数字のに</item>
+        <item>数字のさん</item>
+        <item>数字のよん</item>
+        <item>数字のご</item>
+        <item>数字のろく</item>
+        <item>数字のなな</item>
+        <item>数字のはち</item>
+        <item>数字のきゅう</item>
+    </string-array>
+</resources>
